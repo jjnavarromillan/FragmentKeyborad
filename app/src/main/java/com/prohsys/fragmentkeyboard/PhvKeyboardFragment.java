@@ -14,9 +14,6 @@ import android.widget.TextView;
 import com.prohsys.fragmentkeyborad.R;
 
 
-/**
- * A simple {@link Fragment} subclass.
- */
 public class PhvKeyboardFragment extends Fragment implements View.OnClickListener,IPhvKeyboardEvent {
     Activity activity;
     PhvKeyboard phvKeyboard;
